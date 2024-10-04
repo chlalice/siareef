@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @siareef
+- 👀 I’m interested in algorithm design, pcb design, fpgas, game design, and electrical projects
